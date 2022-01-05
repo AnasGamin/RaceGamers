@@ -1,0 +1,9 @@
+{
+	"ip":"RaceGamer.aternos.me",
+	"port":42237,
+	"name": "Player1",
+	"auto-night-skip":"flase",
+	"login-enabled":"false",
+	"register-cmd":"/register MojiPlays MojiPlays",
+	"login-cmd":"/login MojiPlays"
+}
